@@ -1,0 +1,44 @@
+REFUNDATOR – LICENCJA PROGRAMU
+
+Copyright (c) 2026 Kargadann. Wszelkie prawa zastrzeżone.
+
+1. Udzielenie licencji
+   Autor udziela bezpłatnej, niewyłącznej licencji na instalowanie i używanie programu
+   Refundator (dalej: Program) w postaci udostępnionej przez autora, na dowolnej liczbie
+   komputerów, do użytku prywatnego i zawodowego.
+
+2. Ograniczenia
+   Bez pisemnej zgody autora nie wolno: rozpowszechniać zmienionych wersji Programu,
+   sprzedawać ani udostępniać Programu odpłatnie, usuwać informacji o autorze i licencjach.
+   Niezmieniony instalator można przekazywać innym osobom nieodpłatnie.
+   Ograniczenia nie dotyczą składników stron trzecich (pkt 4) – te podlegają własnym licencjom.
+
+3. Charakter informacyjny, brak gwarancji
+   Program ma charakter wyłącznie informacyjny. Wiążąca jest treść obwieszczeń Ministra
+   Zdrowia w sprawie wykazu refundowanych leków, środków spożywczych specjalnego
+   przeznaczenia żywieniowego oraz wyrobów medycznych, sprostowań i obwieszczeń
+   zmieniających, a także treść przepisów prawa. Program jest udostępniany w stanie
+   „takim, jaki jest”, bez jakiejkolwiek gwarancji. Autor nie odpowiada za szkody wynikające
+   z użycia Programu, w tym z błędów odczytu danych źródłowych.
+
+4. Składniki stron trzecich
+   Program zawiera biblioteki rozpowszechniane na licencjach otwartych (LGPL, MIT, BSD,
+   Apache, PSF i innych). Ich wykaz i pełne teksty licencji znajdują się w folderze
+   „licencje” w katalogu instalacji Programu (plik SKLADNIKI.txt).
+
+   Biblioteki na licencji GNU LGPL (Qt / PySide6 / shiboken6 – LGPL-3.0; py7zr, pyppmd,
+   pybcj, inflate64, multivolumefile – LGPL-2.1 lub późniejsza) są dołączone jako osobne,
+   wymienialne pliki w folderze „_internal”. Niezależnie od pkt 2 wolno modyfikować te
+   biblioteki na własny użytek, zastępować je własnymi wersjami oraz stosować inżynierię
+   wsteczną Programu w zakresie potrzebnym do debugowania takich modyfikacji. Kod źródłowy
+   tych bibliotek wskazano w pliku SKLADNIKI.txt.
+
+5. Dane
+   Nazwy kodów ICD-10: Międzynarodowa Statystyczna Klasyfikacja Chorób i Problemów
+   Zdrowotnych ICD-10 – Rejestr Systemów Kodowania, Centrum e-Zdrowia, opublikowane w
+   serwisie dane.gov.pl (https://dane.gov.pl/pl/dataset/27) na licencji CC BY 4.0
+   (https://creativecommons.org/licenses/by/4.0/deed.pl). Program zawiera wyciąg kodów
+   i nazw (plik icd10_pl.json) bez zmian ich treści; ten wyciąg podlega licencji CC BY 4.0.
+
+   Obwieszczenia Ministra Zdrowia i ich załączniki Program pobiera na żądanie użytkownika
+   ze strony https://www.gov.pl/web/zdrowie – nie są częścią Programu.
