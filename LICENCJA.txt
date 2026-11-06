@@ -40,5 +40,13 @@ Copyright (c) 2026 Kargadann. Wszelkie prawa zastrzeżone.
    (https://creativecommons.org/licenses/by/4.0/deed.pl). Program zawiera wyciąg kodów
    i nazw (plik icd10_pl.json) bez zmian ich treści; ten wyciąg podlega licencji CC BY 4.0.
 
+   Rejestr Produktów Leczniczych: Centrum e-Zdrowia, rejestry.ezdrowie.gov.pl, opublikowany
+   w serwisie dane.gov.pl (https://dane.gov.pl/pl/dataset/397) na licencji CC BY 4.0
+   (https://creativecommons.org/licenses/by/4.0/deed.pl). Program pobiera rejestr na żądanie
+   użytkownika i pokazuje jego dane bez zmian treści (wybiera produkty dla ludzi); charakterystyki
+   produktów leczniczych i ulotki pobiera z rejestru, a dla produktów dopuszczonych centralnie –
+   ze strony Europejskiej Agencji Leków (https://www.ema.europa.eu). Rejestr i dokumenty nie są
+   częścią Programu.
+
    Obwieszczenia Ministra Zdrowia i ich załączniki Program pobiera na żądanie użytkownika
    ze strony https://www.gov.pl/web/zdrowie – nie są częścią Programu.
